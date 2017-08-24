@@ -6,3 +6,4 @@ cd src/main/resources/templates
 npm install
 npm run dev
 
+edit
